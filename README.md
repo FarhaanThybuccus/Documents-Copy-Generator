@@ -3,15 +3,15 @@ This Python script provides a simple graphical user interface (GUI) for selectin
 
 The code can make copies of any type of file, regardless of its format or content. It doesn't restrict the type of files you can copy. The code essentially works with files as binary data, so it can be used to copy and rename files of various formats, including but not limited to:
 
-Text files (e.g., .txt, .csv, .xml)
-Document files (e.g., .docx, .pdf, .odt)
-Image files (e.g., .jpg, .png, .gif)
-Audio files (e.g., .mp3, .wav, .flac)
-Video files (e.g., .mp4, .avi, .mkv)
-Archive files (e.g., .zip, .tar.gz, .rar)
-Source code files (e.g., .py, .java, .cpp)
-Configuration files (e.g., .ini, .json, .yaml)
-Binary files (e.g., .exe, .dll, .bin)
+Text files (e.g., .txt, .csv, .xml), 
+Document files (e.g., .docx, .pdf, .odt), 
+Image files (e.g., .jpg, .png, .gif), 
+Audio files (e.g., .mp3, .wav, .flac), 
+Video files (e.g., .mp4, .avi, .mkv), 
+Archive files (e.g., .zip, .tar.gz, .rar), 
+Source code files (e.g., .py, .java, .cpp), 
+Configuration files (e.g., .ini, .json, .yaml), 
+Binary files (e.g., .exe, .dll, .bin).
 
 In essence, you can use this code to create copies of any file on your system, regardless of its type or content. It's a versatile utility for duplicating and renaming files for various purposes.
 
